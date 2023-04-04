@@ -1,0 +1,35 @@
+[  
+    {   
+        "id": 1,    
+        "price": 29.99,    
+        "name": "Basic",    
+        "features": [      
+            "Access to gym equipment",     
+            "Use of locker rooms",     
+            "Group fitness classes"   
+         ]
+  },
+  {
+    "id": 2,
+    "price": 49.99,
+    "name": "Premium",
+    "features": [
+      "Access to gym equipment",
+      "Use of locker rooms",
+      "Group fitness classes",
+      "Personal training sessions"
+    ]
+  },
+  {
+    "id": 3,
+    "price": 69.99,
+    "name": "Ultimate",
+    "features": [
+      "Access to gym equipment",
+      "Use of locker rooms",
+      "Group fitness classes",
+      "Personal training sessions",
+      "Access to sauna and steam room"
+    ]
+  }
+]
